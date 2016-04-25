@@ -1,0 +1,2 @@
+# GRAcct
+Simple Finance Manager
