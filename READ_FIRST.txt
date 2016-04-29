@@ -1,0 +1,23 @@
+In order to generate payroll, unzip the Payroll.zip file and upload the Payroll folder to the root folder. 
+
+To use the App, simply unzip the file, do the step aove and upload the folder to the www folder of localhost. 
+
+Then direct your browser to your to the web root.
+
+EXAMPLE
+
+I download the zip file as GRAcct.zip
+
+I unzip the file to get a new file - GRAcct
+
+I unzip the Payroll.zip and copy the Payroll FOlder to GRAcct Folder.
+
+I move the GRAcct folder to on c:/wamp/www as a subfolder
+
+I direct my browser to http://localhost/GRAcct
+
+Enjoy!!!
+
+Remember to send your comments, suggestions and criticisms to fortuneodesanya@gmail.com.
+You can contact on Facebook using facebook.com/Fortuneod
+Phone: +2348065465555
